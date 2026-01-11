@@ -1,1 +1,1 @@
-# corporate-site-portfolio
+スクロール時の表示アニメーションを JavaScript で実装しています。
